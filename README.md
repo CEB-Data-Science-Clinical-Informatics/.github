@@ -2,7 +2,7 @@
 
 The Data Science and Clinical Informatics Division (DSCI), affiliated with Mahidol University, is a branch of the Department of Clinical Epidemiology and Biostatistics (CEB). 
 
-![CEB organization chart](assets\images\CEB_organization_chart_240116.png)
+![CEB organization chart](assets/images/CEB_organization_chart_240116.png)
 
 ## Department of Clinical Epidemiology and Biostatistics
 
@@ -16,7 +16,7 @@ The publications are accessible online [here](https://www.rama.mahidol.ac.th/ceb
 
 ## CEB Data Warehouse Project
 
-![CEB Data Warehouse Project](assets\images\CEB-DataWarehouse_logo_240116.png)
+![CEB Data Warehouse Project](assets/images/CEB-DataWarehouse_logo_240116.png)
 
 The CEB Data Warehouse Project, established in 2010, focuses on constructing data warehouses for non-communicable diseases (NCDs) from the Ramathibodi hospital information system. These data warehouses cover a range of conditions, including type 2 diabetes mellitus, hypertension, chronic kidney disease, atrial fibrillation, stroke, and heart failure, and are updated quarterly.
 
