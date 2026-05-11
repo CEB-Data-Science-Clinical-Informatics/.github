@@ -2,7 +2,7 @@
 
 The Data Science and Clinical Informatics Division (DSCI), affiliated with Mahidol University, is a branch of the Department of Clinical Epidemiology and Biostatistics (CEB). 
 
-![CEB organization chart](https://www.rama.mahidol.ac.th/ceb/OrganizationalChart)
+![Ramathibodi Logo](https://www.rama.mahidol.ac.th/audiovisual/sites/default/files/public/logo/Rama_Logo_Color-01.png)
 
 ## Department of Clinical Epidemiology and Biostatistics
 
